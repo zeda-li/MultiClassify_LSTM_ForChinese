@@ -7,7 +7,7 @@
 
 
 ## FAQ
-###1、如何修改embed_dim？
+### 1、如何修改embed_dim？
 
 将train_test2.py中第135行的embed_dim，以及word2vec.py的voc_dim，修改为想要的单词维度即可。
 
